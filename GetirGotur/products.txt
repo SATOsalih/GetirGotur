@@ -1,0 +1,45 @@
+Snacks,Chips,25,chips.jpg
+Snacks,Nuts,64,nuts.jpg
+Snacks,Wafer,4,wafer.jpg
+Snacks,Spreads,54,spreads.jpg
+Snacks,Crackers,2,crackers.jpg
+Snacks,Cookies,6,cookies.jpg
+Snacks,Candy,11,candy.jpg
+Snacks,Gum,16,gum.jpg
+Snacks,Ice Cream,25,icecream.jpg
+Fruits,Banana,29,banana.jpg
+Fruits,Orange,22,orange.jpg
+Fruits,Apple,9,apple.jpg
+Fruits,Blueberry,52,blueberry.jpg
+Fruits,Grape,17,grape.jpg
+Fruits,Pear,34,pear.png
+Fruits,Kiwi,19,kiwi.jpg
+Fruits,Melon,26,melon.jpg
+Fruits,Pineapple,49,pineapple.jpg
+Vegetables,Tomato,21,tomato.jpg
+Vegetables,Cucumber,19,cucumber.jpg
+Vegetables,Lemon,5,lemon.jpg
+Vegetables,Pepper,6,pepper.jpg
+Vegetables,Onion,30,onion.jpg
+Vegetables,Garlic,12,garlic.jpg
+Vegetables,Eggplant,32,eggplant.jpg
+Vegetables,Carrot,13,carrot.jpg
+Vegetables,Mushroom,20,mushroom.jpg
+Foods,Spaghetti,12,spaghetti.jpg
+Foods,Pasta,12,pasta.jpg
+Foods,Rice,54,rice.jpg
+Foods,Bulghur,19,bulghur.jpg
+Foods,Lentil,47,lentil.jpg
+Foods,Soup,12,soup.jpg
+Foods,Sugar,28,sugar.jpg
+Foods,Beans,60,beans.jpg
+Foods,Flour,16,flour.jpg
+Drinks,Water,3,water.jpg
+Drinks,Coffee,22,coffee.jpg
+Drinks,Ayran,3,ayran.jpg
+Drinks,Coke,9,coke.jpg
+Drinks,Juice,8,juice.jpg
+Drinks,Tea,41,tea.jpg
+Drinks,Energy Drink,25,energydrink.jpg
+Drinks,Sparkling Water,3,sparklingwater.jpg
+Drinks,Iced Tea,7,icedtea.jpg

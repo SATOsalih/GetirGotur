@@ -1,0 +1,10 @@
+busy,busy123
+cute,cute123
+dark,dark123
+curious,curious123
+different,different123
+easy,easy123
+evil,evil123
+fair,fair123
+player,player123
+user,user123
