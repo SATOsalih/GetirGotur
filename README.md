@@ -1,0 +1,2 @@
+# GetirGotur
+Supermarket GUI
